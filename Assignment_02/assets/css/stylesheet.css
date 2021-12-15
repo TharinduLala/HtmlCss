@@ -72,6 +72,7 @@ body>main>aside>ul>li:hover {
 
 body>main>section {
   margin-left: 260px;
+  margin-right: 10px;
 }
 
 body>main>section>section:nth-child(1) {
