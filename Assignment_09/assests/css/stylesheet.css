@@ -18,10 +18,7 @@ body>section>section{
     height: 100%;
     width: 400%;
     display: flex;
-    animation-name: slide;
-    animation-duration: 10s;
-    animation-direction: alternate;
-    animation-iteration-count: infinite;
+    animation: slide linear 10s infinite;
 }
 @keyframes slide{
     0%,15%{
